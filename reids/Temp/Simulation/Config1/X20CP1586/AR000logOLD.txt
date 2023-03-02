@@ -1,0 +1,21 @@
+Thu Mar 02 12:52:39 2023
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Thu Mar 02 12:52:39 2023
+No ARsim registration found!
+
+Thu Mar 02 12:52:39 2023
+InstanceName: 01d94cc2d0b883e0
+
+Thu Mar 02 12:52:39 2023
+WorkingDirectory: C:\Users\gupta.mani\Desktop\test\reids\Temp\Simulation\Config1\X20CP1586\
+
+Thu Mar 02 12:52:39 2023
+COMMAND_COLDSTART
+
+Thu Mar 02 12:52:41 2023
+Version: E4.63
+
+Thu Mar 02 12:53:27 2023
+COMMAND_TERMINATE
+

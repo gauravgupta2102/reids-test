@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.6.7.161 SP"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\Users\gupta.mani\Desktop\test\reids\Logical\"
+  TempDirectory="C:\Users\gupta.mani\Desktop\test\reids\Temp\"
+  AutomationStudioVersion="4.6.7.161 SP"
+  AutomationStudioEdition="Standard"
+  BuildCrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />
