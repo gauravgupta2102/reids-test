@@ -1,11 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <BR.AS.HardwareTopology Version="0.0.0.1">
   <TimeStamps>
-    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="03/02/2023 11:46:29" />
+    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="03/02/2023 13:13:53" />
   </TimeStamps>
   <Modules>
     <Module Name="X20CP1586" Type="X20CP1586" X="100" Y="100" />
+    <Module Name="ModbusTcp_any" Type="ModbusTcp_any" X="100" Y="399" />
   </Modules>
-  <Links />
+  <Links>
+    <Link From="ModbusTcp_any" To="X20CP1586" FromPort="ETH1" ToPort="IF2" IsRoutedByUser="False">
+      <Point X="132" Y="187" />
+      <Point X="132" Y="187" />
+      <Point X="132" Y="200" />
+      <Point X="132" Y="205" />
+      <Point X="95" Y="205" />
+      <Point X="95" Y="455" />
+      <Point X="134" Y="455" />
+      <Point X="134" Y="450" />
+      <Point X="134" Y="443" />
+      <Point X="134" Y="443" />
+    </Link>
+  </Links>
   <InfoElements />
 </BR.AS.HardwareTopology>
